@@ -1,0 +1,10 @@
+git init - to intialize
+git status - to check status of file
+git add filename - to add particular file from working directory to stagging area
+git add . - to add all files from working directory to stagging area
+code . - to open vscode from git bash
+git branch - display all branches
+git branch branch name - crreate new branch
+git checkout branch name- switch branch
+git checkout -b  branchname -create new branch and switch to created
+git remote add origin url(repository)
