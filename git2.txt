@@ -1,0 +1,4 @@
+git branch -d branch-name - delete branch from local
+git push origin --delete branch-name - delete branch from remote
+git branch - displays all local branches
+git branch -r - displays all remote branches

@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 hello
+=======
+hello welcome to git
+
+tags
+-git tag tagname -- to create tag
+-git tag -- to displays all tags
+-git show tagname - display particular tagname
+-git tag -l "tagname"
+    example:
+            git tag -l "v1." - display all tags start from v
+-git push origin --tags  --push multiple tags from local to remote
+-git push origin tagname --push particular tag from local to remote
+>>>>>>> v1.0.0
